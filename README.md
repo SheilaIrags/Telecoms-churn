@@ -8,8 +8,9 @@ As a Business Intelligence Analyst, you have been hired to help the company impr
 
 ## Data
 
-This dataset contains 2 tables, in CSV format:
+This dataset contains 3 tables:
 
-The Customer Churn table contains information on all 7,043 customers from a Telecommunications company in California in Q2 2022
+The Customer Churn table contains information on all **7,043 customers** from a Telecommunications company in California in **Q2 2022**
 Each record represents one customer, and contains details about their demographics, location, tenure, subscription services, status for the quarter (joined, stayed, or churned), and more!
-The Zip Code Population table contains complimentary information on the estimated populations for the California zip codes in the Customer Churn table
+The Zip Code Population table contains complimentary information on the estimated populations for the California zip codes in the Customer Churn table.
+The Telecom Data Dictionary contains descriptions of the fields in the customer churn table.
